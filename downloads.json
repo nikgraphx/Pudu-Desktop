@@ -3,21 +3,21 @@
   "current": [
     {
       "platform": "mac",
-      "version": "0.4.14",
-      "publishedAt": "2026-10-15T20:30:52Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.14",
+      "version": "0.4.15",
+      "publishedAt": "2026-10-15T20:58:28Z",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.15",
       "assets": [
         {
           "arch": "arm64",
-          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.14/Pudu-0.4.14-mac-arm64.dmg",
-          "filename": "Pudu-0.4.14-mac-arm64.dmg",
-          "size": 138223351
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.15/Pudu-0.4.15-mac-arm64.dmg",
+          "filename": "Pudu-0.4.15-mac-arm64.dmg",
+          "size": 138089020
         },
         {
           "arch": "x64",
-          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.14/Pudu-0.4.14-mac-x64.dmg",
-          "filename": "Pudu-0.4.14-mac-x64.dmg",
-          "size": 144849756
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.15/Pudu-0.4.15-mac-x64.dmg",
+          "filename": "Pudu-0.4.15-mac-x64.dmg",
+          "size": 144685281
         }
       ]
     },
@@ -37,6 +37,26 @@
     }
   ],
   "previous": [
+    {
+      "platform": "mac",
+      "version": "0.4.14",
+      "publishedAt": "2026-10-15T20:30:52Z",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.14",
+      "assets": [
+        {
+          "arch": "arm64",
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.14/Pudu-0.4.14-mac-arm64.dmg",
+          "filename": "Pudu-0.4.14-mac-arm64.dmg",
+          "size": 138223351
+        },
+        {
+          "arch": "x64",
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.14/Pudu-0.4.14-mac-x64.dmg",
+          "filename": "Pudu-0.4.14-mac-x64.dmg",
+          "size": 144849756
+        }
+      ]
+    },
     {
       "platform": "mac",
       "version": "0.4.13",
@@ -276,5 +296,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T20:31:00.342Z"
+  "updatedAt": "2026-10-15T20:58:38.158Z"
 }
