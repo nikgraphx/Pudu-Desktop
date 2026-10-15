@@ -12,11 +12,11 @@ Version 0.4.3 introduces automatic Mac updates. Older builds need one manual rep
 
 ## Windows
 
-Download the [Windows x64 installer](https://github.com/nikgraphx/Pudu-desktop/releases/download/v0.4.5/Pudu-0.4.5-win-x64.exe). Run setup and open Pudu. This private-beta EXE is not Authenticode-signed, so Windows can show an unknown-publisher or SmartScreen warning. Do not disable Windows security globally.
+Download the [Windows x64 installer](https://github.com/nikgraphx/Pudu-desktop/releases/download/v0.4.7/Pudu-0.4.7-win-x64.exe). Run setup and open Pudu. This private-beta EXE is not Authenticode-signed, so Windows can show an unknown-publisher or SmartScreen warning. Do not disable Windows security globally.
 
-Versions 0.4.4 and later support background updates with an explicit Restart to update action. Update metadata is authenticated against a public key embedded in the app, and installer checksums are verified. Existing users on 0.4.2 need one manual installer upgrade. Microsoft Store distribution is deferred.
+Versions 0.4.6 and later support background updates with an explicit Restart to update action. Update metadata is authenticated against a public key embedded in the app, and installer checksums are verified. Existing users on 0.4.2 need one manual installer upgrade. Microsoft Store distribution is deferred.
 
-For the first update test, install [0.4.4](https://github.com/nikgraphx/Pudu-desktop/releases/download/v0.4.4/Pudu-0.4.4-win-x64.exe), then let Pudu download 0.4.5 and choose Restart to update. Actual Windows replacement/relaunch is awaiting tester confirmation.
+For the first update test, install [0.4.6](https://github.com/nikgraphx/Pudu-desktop/releases/download/v0.4.6/Pudu-0.4.6-win-x64.exe), then let Pudu download 0.4.7 and choose Restart to update. Actual Windows replacement/relaunch is awaiting tester confirmation.
 
 ## Source and support
 
