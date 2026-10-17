@@ -1,12 +1,47 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T16:06:09.028Z",
   "current": [
+    {
+      "platform": "mac",
+      "version": "0.4.22",
+      "publishedAt": "2026-10-17T18:17:38Z",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.22",
+      "assets": [
+        {
+          "arch": "arm64",
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.22/Pudu-0.4.22-mac-arm64.dmg",
+          "filename": "Pudu-0.4.22-mac-arm64.dmg",
+          "size": 143205032
+        },
+        {
+          "arch": "x64",
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.22/Pudu-0.4.22-mac-x64.dmg",
+          "filename": "Pudu-0.4.22-mac-x64.dmg",
+          "size": 149828191
+        }
+      ]
+    },
+    {
+      "platform": "windows",
+      "version": "0.4.22",
+      "publishedAt": "2026-10-17T18:17:38Z",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.22",
+      "assets": [
+        {
+          "arch": "x64",
+          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.22/Pudu-0.4.22-win-x64.exe",
+          "filename": "Pudu-0.4.22-win-x64.exe",
+          "size": 123548958
+        }
+      ]
+    }
+  ],
+  "previous": [
     {
       "platform": "mac",
       "version": "0.4.21",
       "publishedAt": "2026-10-17T16:05:17Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-Desktop/releases/tag/v0.4.21",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.21",
       "assets": [
         {
           "arch": "arm64",
@@ -26,7 +61,7 @@
       "platform": "windows",
       "version": "0.4.21",
       "publishedAt": "2026-10-17T16:05:17Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-Desktop/releases/tag/v0.4.21",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.21",
       "assets": [
         {
           "arch": "x64",
@@ -35,9 +70,7 @@
           "size": 123542349
         }
       ]
-    }
-  ],
-  "previous": [
+    },
     {
       "platform": "mac",
       "version": "0.4.20",
@@ -349,40 +382,7 @@
           "size": 144641578
         }
       ]
-    },
-    {
-      "platform": "windows",
-      "version": "0.4.11",
-      "publishedAt": "2026-10-15T13:36:20Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.11",
-      "assets": [
-        {
-          "arch": "x64",
-          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.11/Pudu-0.4.11-win-x64.exe",
-          "filename": "Pudu-0.4.11-win-x64.exe",
-          "size": 118450197
-        }
-      ]
-    },
-    {
-      "platform": "mac",
-      "version": "0.4.10",
-      "publishedAt": "2026-10-15T08:36:37Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.10",
-      "assets": [
-        {
-          "arch": "arm64",
-          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.10/Pudu-0.4.10-mac-arm64.dmg",
-          "filename": "Pudu-0.4.10-mac-arm64.dmg",
-          "size": 138032987
-        },
-        {
-          "arch": "x64",
-          "url": "https://github.com/nikgraphx/Pudu-Desktop/releases/download/v0.4.10/Pudu-0.4.10-mac-x64.dmg",
-          "filename": "Pudu-0.4.10-mac-x64.dmg",
-          "size": 144639602
-        }
-      ]
     }
-  ]
+  ],
+  "updatedAt": "2026-10-17T18:17:47.245Z"
 }
