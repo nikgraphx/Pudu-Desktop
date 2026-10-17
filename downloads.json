@@ -1,11 +1,12 @@
 {
   "schema": 1,
+  "updatedAt": "2026-10-17T15:04:22.276Z",
   "current": [
     {
       "platform": "mac",
       "version": "0.4.20",
       "publishedAt": "2026-10-17T15:03:44Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.20",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-Desktop/releases/tag/v0.4.20",
       "assets": [
         {
           "arch": "arm64",
@@ -25,7 +26,7 @@
       "platform": "windows",
       "version": "0.4.20",
       "publishedAt": "2026-10-17T15:03:44Z",
-      "notesUrl": "https://github.com/nikgraphx/Pudu-desktop/releases/tag/v0.4.20",
+      "notesUrl": "https://github.com/nikgraphx/Pudu-Desktop/releases/tag/v0.4.20",
       "assets": [
         {
           "arch": "x64",
@@ -383,6 +384,5 @@
         }
       ]
     }
-  ],
-  "updatedAt": "2026-10-17T15:03:52.718Z"
+  ]
 }
